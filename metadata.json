@@ -1,0 +1,6 @@
+{
+  "name": "Pasapalabra — Գուշակիր բառը",
+  "description": "Իսպաներեն և հայերեն «Pasapalabra» խաղ 27 հարցով 12 տարեկանների համար՝ El Rosco շրջանով, թարգմանությամբ և ստուգմամբ։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
